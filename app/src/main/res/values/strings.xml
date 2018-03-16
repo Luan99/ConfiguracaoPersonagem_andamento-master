@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ConfiguracaoPersonagem</string>
+    <string name="titulo_criar_seu_personagem">Crie seu personagem</string>
+    <string name="label_nome">Nome do personagem</string>
+    <string name="label_sexo">Sexo</string>
+    <string name="label_masculino">Masculino</string>
+    <string name="label_feminino">Feminino</string>
+    <string name="label_classe">Classe</string>
+    <string name="label_forca">Força</string>
+    <string name="botao_criar">Criar</string>
+
+    <string name="mago">Mago</string>
+    <string name="guerreiro">Guerreiro</string>
+    <string name="arqueiro">Arqueiro</string>
+    <string name="bardo">Bardo</string>
+    <string name="anao">Anão</string>
+    <string name="elfo">Elfo</string>
+    <string name="label_travecao">Travecao</string>
+</resources>
